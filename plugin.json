@@ -49,8 +49,8 @@
       "locale": "vi_VN"
     },
     {
-      "name": "Tàng Thư Viện",
-      "author": "vBook",
+      "name": "Tàng Thư Viện M",
+      "author": "xlotech",
       "path": "https://raw.githubusercontent.com/xlotech/vbook-extensions/master/tangthuvien/plugin.zip",
       "version": 4,
       "source": "https://truyen.tangthuvien.vn",
