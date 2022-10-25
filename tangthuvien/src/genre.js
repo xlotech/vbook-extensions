@@ -8,7 +8,7 @@ function execute() {
             var e = el.get(i);
             genre.push({
                 title: e.text(),
-                input: "https://truyen.tangthuvien.vn/tong-hop?ctg" + e.attr("href"),
+                input: "https://truyen.tangthuvien.vn/tong-hop?time=m&ctg" + e.attr("href"),
                 script: "gen.js"
             });
         }
